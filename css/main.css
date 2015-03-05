@@ -1,0 +1,17 @@
+
+.questions {
+  background-color: white;
+  font-size: 20px;
+}
+.questions ul {
+  list-style-type: disc;
+}
+.questions li {
+  margin: 10px;
+}
+
+.title {
+  font-size: 50px;
+  color: #444;
+  margin: 10px 0px;
+}
