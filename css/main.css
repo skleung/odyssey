@@ -1,5 +1,5 @@
 
-.questions {
+.questions, .blob {
   background-color: white;
   font-size: 20px;
 }
@@ -7,6 +7,17 @@
   list-style-type: disc;
 }
 .questions li {
+  margin: 10px;
+}
+
+.list {
+  background-color: white;
+  font-size: 20px;
+}
+.list ol {
+  list-style-type: default;
+}
+.list li {
   margin: 10px;
 }
 
